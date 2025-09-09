@@ -27,5 +27,5 @@ The goal of this project is to explore the dataset, clean the data, and engineer
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/titanic-eda.git
+   git clone git@github.com:Anzammu/Titanic-survival-analysis.git
 
